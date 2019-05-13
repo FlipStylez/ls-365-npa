@@ -3,13 +3,13 @@
 ## 1. Fighting
    Before attacking ANY player ANYWHERE do next things from this checklist. It's ONLY YOUR responsibility to check it.
 
-   1. Don't attack our ALLIES and their FARMS ANYWHERE.
+   1. Don't attack or scout our ALLIES and their FARMS ANYWHERE.
 
-   2. Don't attack [TOP15](./TOP15.md) alliance member if he placed on GREEN ZONE.
+   2. Don't attack or scout [TOP15](./TOP15.md) alliance member if he placed on GREEN ZONE.
 
-   3. Don't attack ANYONE in DESERT if you placed on GREEN ZONE.
+   3. Don't attack or scout ANYONE in DESERT if you placed on GREEN ZONE.
    
-   4. Don't attack ANYONE in GREEN ZONE if you placed on DESERT.
+   4. Don't attack or scout ANYONE in GREEN ZONE if you placed on DESERT.
 
    Desert is a zone of merciless fight without rules. Almost everything that happens in this territory (AND ONLY THERE) is not governed by STATE rules.
 
