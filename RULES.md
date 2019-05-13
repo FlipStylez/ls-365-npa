@@ -9,7 +9,9 @@
 
    3. Don't attack ANYONE in DESERT if you placed on GREEN ZONE.
    
-      Desert is a zone of merciless fight without rules. Almost everything that happens in this territory (AND ONLY THERE) is not governed by STATE rules.
+   4. Don't attack ANYONE in GREEN ZONE if you placed on DESERT.
+
+   Desert is a zone of merciless fight without rules. Almost everything that happens in this territory (AND ONLY THERE) is not governed by STATE rules.
 
 ## 2. Chat messaging
    1. Use alliance chat to communicate always.
