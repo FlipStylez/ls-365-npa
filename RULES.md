@@ -1,6 +1,6 @@
 # Last Shelter: State #365 nPA alliance rules
 
-## 1. Attacking rules
+## 1. Figthing
    Before attacking ANY player ANYWHERE do next things from this checklist. It's ONLY YOUR responsibility to check it.
 
    1. Don't attack our ALLIES and their FARMS ANYWHERE.
