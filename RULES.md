@@ -28,3 +28,7 @@
       Cooperate with your teammates in ALLIANCE chat. Wendell ALWAYS MUST be set to 1 hour. It's recommended to level 5.
 
    3. Reinforce your teammates if they are attacked and you can really help.
+   
+   4. Kill all the zombies(and rebel camps) around the base and the hive to enforce to respawn other higlevel zombies.
+
+   5. Don't forget to put resources in the world.
