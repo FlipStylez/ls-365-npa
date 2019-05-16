@@ -32,3 +32,5 @@
    4. Kill all the zombies(and rebel camps) around the base and the hive to enforce to respawn other higlevel zombies.
 
    5. Don't forget to put resources in the world.
+
+      We all need to make resources in our hive together.
