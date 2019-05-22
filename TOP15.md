@@ -6,14 +6,14 @@ There is a list of TOP15 alliances. Be careful! This is just a copy. It's maybe 
 2. (MDo) Infinite Challenge
 3. (Los) DeathWing
 4. (loh) Legion of Hades
-5. (ENS) Enslavers
-6. (FFY) Filo Friends
+5. (FFY) Filo Friends
+6. (ENS) Enslavers
 7. (RsW) Republic SW
 8. (lst) last
-9. (SVA) SVARGA2
-10. (nPA) Pinoy Suicide Squad ```[we are here]```
+9. (nPA) Pinoy Suicide Squad ```[we are here]```
+10. (SVA) SVARGA2
 11. (G4M) Garuda Muda
-12. (Ree) Ree
-13. (CLL) Thailand Open
-14. (38r) Herova gora
-15. (Qui) Quiet Assassin
+12. (MhW) Mayhem Makers 2 GOD
+13. (Jal) JAL Airlines
+14. (Ree) Ree
+15. (38r) Herova gora
