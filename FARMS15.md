@@ -2,10 +2,10 @@
 
 There is a list of TOP15 farm alliances. Be careful! This is just a copy. It's maybe OUTDATED. It's in YOUR responsibility to check it explicit in game.
 
-1. MhM: 
+1. MhM: MMf, mmf
 2. MDo:
 3. Los:
-4. loh:
+4. loh: l0h
 5. FFY:
 6. ENS:
 7. RsW:
