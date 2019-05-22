@@ -5,7 +5,7 @@
 
    1. Don't attack or scout our ALLIES and their FARMS ANYWHERE.
 
-   2. Don't attack or scout [TOP15](./TOP15.md) alliance member if he placed on GREEN ZONE. Don't attack or scout their farms in GREEN ZONE if they placed near their hives.
+   2. Don't attack or scout [TOP15](./TOP15.md) alliance member if he placed on GREEN ZONE. Don't attack or scout their [FARMS](./FARMS15.md) in GREEN ZONE if they placed near their hives.
 
    3. Don't attack or scout [TOP15](./TOP15.md) in DESERT if you placed on GREEN ZONE.
    
