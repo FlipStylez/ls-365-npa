@@ -12,8 +12,8 @@ There is a list of TOP15 alliances. Be careful! This is just a copy. It's maybe 
 8. (lst) last
 9. (nPA) Pinoy Suicide Squad ```[we are here]```
 10. (SVA) SVARGA2
-11. (G4M) Garuda Muda
-12. (MhW) Mayhem Makers 2 GOD
+11. (MhW) Mayhem Makers 2 GOD
+12. (1Nd) Garuda Muda
 13. (JaL) JAL Airlines
 14. (Ree) Ree
 15. (38r) Herova gora
