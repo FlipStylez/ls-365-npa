@@ -14,6 +14,6 @@ There is a list of TOP15 farm alliances. Be careful! This is just a copy. It's m
 10. SVA:
 11. MhW: -
 12. 1Nd: -
-13. JaL:
+13. JaL: Qui?
 14. Ree:
 15. 38r:
