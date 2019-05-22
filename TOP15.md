@@ -14,6 +14,6 @@ There is a list of TOP15 alliances. Be careful! This is just a copy. It's maybe 
 10. (SVA) SVARGA2
 11. (G4M) Garuda Muda
 12. (MhW) Mayhem Makers 2 GOD
-13. (Jal) JAL Airlines
+13. (JaL) JAL Airlines
 14. (Ree) Ree
 15. (38r) Herova gora
