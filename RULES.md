@@ -16,7 +16,7 @@
 ## 2. Chat messaging
    1. Use alliance chat to communicate always.
 
-   2. Don't use state chat at all.
+   2. Don't use state chat at all. Don't post any coordinates to state chat.
 
       Before using state chat, check again - maybe alliance chat will be enough.
 
