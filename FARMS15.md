@@ -4,7 +4,7 @@ There is a list of TOP15 farm alliances. Be careful! This is just a copy. It's m
 
 1. MhM: MMf, mmf
 2. MDo:
-3. Los:
+3. Los: LoS
 4. loh: l0h
 5. FFY:
 6. ENS: ENs, eNS
@@ -15,5 +15,5 @@ There is a list of TOP15 farm alliances. Be careful! This is just a copy. It's m
 11. MhW: -
 12. 1Nd: -
 13. JaL: Qui?
-14. Ree:
+14. Ree: -
 15. 38r: 38R
