@@ -8,7 +8,7 @@ There is a list of TOP15 farm alliances. Be careful! This is just a copy. It's m
 4. loh: l0h
 5. FFY:
 6. ENS: ENs, eNS
-7. RsW:
+7. RsW: Rep
 8. lst:
 9. nPA ```[our farms]```:
 10. SVA:
