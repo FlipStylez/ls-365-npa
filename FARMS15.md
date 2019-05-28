@@ -10,7 +10,7 @@ There is a list of TOP15 farm alliances. Be careful! This is just a copy. It's m
 6. ENS: ENs, eNS
 7. RsW: Rep
 8. LsT: lsT
-9. SVA: (UNKNOWN, UNCONFIRMED)
+9. SVA: ---
 10. MhW: ---
 11. nPA ```[our farms]```: AKo
 12. 1Nd: ---
