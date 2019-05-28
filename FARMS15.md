@@ -3,17 +3,17 @@
 There is a list of TOP15 farm alliances. Be careful! This is just a copy. It's maybe OUTDATED. It's in YOUR responsibility to check it explicit in game.
 
 1. MhM: MMf, mmf
-2. MDo:
+2. MDo: (UNCONFIRMED: mdo, MD2)
 3. Los: LoS
 4. loh: l0h
-5. FFY:
+5. FFY: fFy
 6. ENS: ENs, eNS
 7. RsW: Rep
-8. lst:
-9. nPA ```[our farms]```:
-10. SVA:
-11. MhW: -
-12. 1Nd: -
-13. JaL: Qui?
-14. Ree: -
-15. 38r: 38R
+8. LsT: (UNCONFIRMED: lsT)
+9. SVA: (UNKNOWN)
+10. MhW: ---
+11. nPA ```[our farms]```: AKo
+12. 1Nd: ---
+13. Ree: ---
+14. 38r: 38R
+15. JaL: QUI, Qui
