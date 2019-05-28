@@ -16,4 +16,4 @@ There is a list of TOP15 farm alliances. Be careful! This is just a copy. It's m
 12. 1Nd: ---
 13. Ree: ---
 14. 38r: 38R
-15. JaL: QUI, Qui
+15. JaL: QUI (UNCONFIRMED), Qui
